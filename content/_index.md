@@ -1,4 +1,8 @@
----
+DNS Name: gitlab.com
+DNS Name: auth.gitlab.com
+DNS Name: gprd.gitlab.com << We can probably get rid of this one
+DNS Name: www.gitlab.com
+gitlab.comgprd.gitlab.comauth.gitlab.comgitlab-com/gl-infra/production-engineering#7841www.gitlab.com---
 date: 2023-01-04 00:00:00
 header: Welcome to the CA/Browser Forum
 linkTitle: Home
